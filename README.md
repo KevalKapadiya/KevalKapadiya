@@ -5,9 +5,7 @@ I’m a passionate full-stack web developer from India, skilled in building dyna
 
 📫 How to reach me:
 
-GitHub: KevalKapadiya
-
-LinkedIn: linkedin.com/in/keval-kapadiya85
+LinkedIn: [https://www.linkedin.com/in/keval-kapadiya85/]
 
 Email: kevalkapadiya9913@gmail.com
 
